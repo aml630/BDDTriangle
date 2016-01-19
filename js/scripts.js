@@ -1,5 +1,1 @@
-$(document).ready(function() {
-alert("hellO?")
-
-
-})
+var triangleShape = 
