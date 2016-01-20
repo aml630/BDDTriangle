@@ -1,0 +1,27 @@
+1. Is the Github documentation - commits and README - thorough and descriptive?
+Looks like you have a few commits in the log, but we noticed there is past tense on "add" i.e. "added"
+Additionally, the commit messages could be more descriptive.
+
+2. Is there good spec coverage?
+Lookin' good!
+
+3. Do all specs pass?
+yes!
+
+4. Is the application logic clear and easy to navigate?
+yes, very!
+
+5. Is the site user-friendly?
+so very user-friendly
+
+6. Are there opportunities for refactoring?
+we don't think so
+
+7. What features stand out?
+the simplicity is pleasing. maybe add a colored button for flair?
+
+8. What features could be improved?
+just that colored button :). great otherwise!
+
+9. Do you have any additional constructive criticism or positive feedback to share?
+nope. very clear to us!
